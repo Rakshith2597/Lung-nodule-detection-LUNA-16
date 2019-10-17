@@ -14,3 +14,10 @@ Trained model and results have not been uploaded in the repo due to its size.
 
 Front-end of the CAD system is in the repo mentioned below.
 https://github.com/Soumya-Raj/Main-project 
+
+Repo organization:
+
+data_prep :- Directory contains the code used to prepare the LUNA16 dataset for training.
+train_codes :- Directory contains the code used to train the network.
+plots:- Directory contains the scripts to evaluate the network and also the dice plots.
+
