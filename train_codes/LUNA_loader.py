@@ -14,7 +14,7 @@ from torch.utils import data
 class lunaLoader(data.Dataset):
     def __init__(self,split="train",is_transform=True,img_size=512):
         self.split = split
-        self.path= "/home/siplab/rachana/rak/data/"+self.split
+        self.path= "/home/rak/data/"+self.split
         self.is_transform = is_transform
         self.img_size = img_size
         self.files = os.listdir(self.path+'/images/') # [image1_img.npy, image2_img.npy]
