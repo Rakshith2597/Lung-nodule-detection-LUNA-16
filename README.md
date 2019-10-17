@@ -7,3 +7,9 @@ Abstract—Lung cancer is one of the leading cause for cancer related death in t
 a crucial part of giving patients the best chance of recovery. However, analysis and cure of lung malignancy have been one
 of the greatest difficulties faced by humans over the most recent couple of decades. Deep learning gives us to increase the
 accuracy of the automated initial diagnosis. This project uses an approach that utilizes a network with features of U-Net architecture to classify cancer nodules as benign or malignant with an accuracy of 92.38 and a low percentage of false positives(<10%).
+
+Dataset used: LUNA 16
+
+More details regarding the implementation is given in the report (pdf document).
+
+Trained model and results have not been uploaded in the repo due to its size.
