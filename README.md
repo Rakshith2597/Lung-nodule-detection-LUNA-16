@@ -10,6 +10,7 @@ accuracy of the automated initial diagnosis. This project uses an approach that 
 
 Dataset used: LUNA 16
 
-More details regarding the implementation is given in the report (pdf document).
-
 Trained model and results have not been uploaded in the repo due to its size.
+
+Front-end of the CAD system is in the repo mentioned below.
+
