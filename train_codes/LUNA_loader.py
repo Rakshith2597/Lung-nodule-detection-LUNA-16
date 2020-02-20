@@ -1,3 +1,6 @@
+#Code written by Rakshith Sathish
+#The work is made public with MIT License
+
 import os
 import collections
 import torch
