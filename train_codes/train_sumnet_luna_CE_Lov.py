@@ -1,3 +1,7 @@
+#Code written by Rakshith Sathish
+#The work is made public with MIT License
+
+
 import numpy as np
 import torch
 import torch.nn as nn
